@@ -8,9 +8,13 @@ This project aims to transform the articles of the Saudi Labor Law into a struct
 👥 Team & Supervision
 
 mariah alnfisah 
+
 Leen Aldubais
+
 Noura Alkhudair
+
 Malak Basloom
+
 Raghad Alrasheed
 
 Supervised by: Dr.khulood alyaha
